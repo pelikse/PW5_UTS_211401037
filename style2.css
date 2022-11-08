@@ -1,0 +1,36 @@
+.pic
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    width : 50%
+}
+
+.sale
+{
+    background-color: whitesmoke;
+    border-color: black;
+    margin-bottom: auto;
+    padding: 30px;
+    border-top: 50px ;
+}
+
+.sale img
+{
+    width: 30%;
+}
+
+.navbar 
+{
+    padding: 1px;
+    margin-top: auto;
+    background-color: whitesmoke;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.sale h5:hover
+{
+    background-color: gainsboro;
+    width: 20%;
+}
